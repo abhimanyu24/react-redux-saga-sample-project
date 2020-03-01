@@ -33,16 +33,3 @@ const reducer2 = (state = initialState, action) => {
 };
 
 export default reducer2;
-
-
-{
-  a: 1,
-  b: 2,
-  c: { d: 2}
-}
-
-{
-  a: 1,
-    b: 2,
-      c: { d: 1}
-}
